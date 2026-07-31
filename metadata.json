@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Studio",
+  "description": "Aplikasi AI All-in-One: Editor Foto AI, Tanya Jawab Chatbot AI, & Pembuat Game Interaktif MVP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
